@@ -1,7 +1,7 @@
 {
-  "name": "binance-coin-primus",
+  "name": "evm-coin-collection",
   "version": "0.0.2",
-  "description": "Binance Coin Primus",
+  "description": "EVM Coin Collection",
   "author": "admin@cryptomint.io",
   "private": false,
   "scripts": {
